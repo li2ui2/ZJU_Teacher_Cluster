@@ -1,0 +1,2 @@
+# ZJU_Teacher_Cluster
+本项目主要将从浙大教师查询主页上的所有教师信息进行文本处理，包括从MongoDB上提取数据、分词、关键词提取、word2vec、doc2vec以及K-means聚类等相关操作。
